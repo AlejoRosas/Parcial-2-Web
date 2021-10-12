@@ -69,7 +69,7 @@ Sabiendo que debiamos usar react para la creacion de un "clon" de pinterest, dec
 Por lo tanto decidimos usar 5 componentes:
 * Header
 * Footer
-* HeaderMobil
+* HeaderMobile
 * PinCard
 * PinterestLayout
 Al tener todos estos componentes, podemos armar nuestra pagina web, ejemplo, podemos ver que los componentes del movil y ordenador no son los mismos, ya que por medio de un condicional, implementamos los componentes:
