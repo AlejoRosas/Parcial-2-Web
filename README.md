@@ -81,10 +81,20 @@ A su vez, aconitunuacion, podemos ver como esta compuesto el componente Pinteres
 
 ![image](https://user-images.githubusercontent.com/72415333/137013308-5459ba6b-b2dc-4bbb-aa18-105c9f5c7012.png)
 
-A continuacio, podemos ver los estilos de PinCard, para ver sus styles y los tres tamaños que manejamos para introducir imagenes en la pagina:
+A continuacion, podemos ver los estilos de PinCard, para ver sus styles y los tres tamaños que manejamos para introducir imagenes en la pagina:
 ![image](https://user-images.githubusercontent.com/72415333/137013664-e8a350e4-918a-4dec-8d63-344fdeb53103.png)
 
 ![image](https://user-images.githubusercontent.com/72415333/137013712-177e6014-1e95-442f-8006-47122b8c0c0d.png)
+
+
+Una vez visto PinCard, podremos pasar a observar Footer y su composicion:
+
+![image](https://user-images.githubusercontent.com/72415333/137017408-81b6e8a0-28da-4859-9b52-c0e0d73ef23c.png)
+
+adicionalmente, tenes un wrapper, que es lo que contiene nustros iconos del footer:
+
+![image](https://user-images.githubusercontent.com/72415333/137017506-49e51b56-17b3-407b-81e4-08b84ba380b4.png)
+
 
 
 
