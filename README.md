@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![image](https://user-images.githubusercontent.com/72415333/137005952-61444721-5528-4903-b55c-00af7726a5ee.png)
+En este diagrama podemos ver como se hizo el diseño de nuestra pagina web en modo MOVIL.
+
+![image](https://user-images.githubusercontent.com/72415333/137006052-84a26b98-74f9-459b-b097-ad9b185d8e47.png)
+En este diagrama podemos ver como se penso la forma de la pagina web en ordenador.
+
+Diseño:
+Sabiendo que debiamos usar react para la creacion de un "clon" de pinterest, decidimos realizar un diseño que correspondiera a esta directiva.
+Por lo tanto decidimos usar 5 componentes:
+* Header
+* Footer
+* HeaderMobil
+* PinCard
+* PinterestLayout
+Al tener todos estos componentes, podemos armar nuestra pagina web, ejemplo, podemos ver que los componentes del movil y ordenador no son los mismos, ya que por medio de un condicional, implementamos los componentes:
+![image](https://user-images.githubusercontent.com/72415333/137008215-7f0a4b00-a94f-410e-96c2-abcec3e19ca8.png)
+
+
+
