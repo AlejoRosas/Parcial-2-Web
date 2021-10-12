@@ -86,5 +86,9 @@ Por lo tanto decidimos usar 5 componentes:
 Al tener todos estos componentes, podemos armar nuestra pagina web, ejemplo, podemos ver que los componentes del movil y ordenador no son los mismos, ya que por medio de un condicional, implementamos los componentes:
 ![image](https://user-images.githubusercontent.com/72415333/137008215-7f0a4b00-a94f-410e-96c2-abcec3e19ca8.png)
 
+Viendo la logica del responsive, estamos mostrando como se hace para el paso a responsive de nuestra pagina web.
+
+
+
 
 
