@@ -54,6 +54,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+*** Diagramas:
+
 ![image](https://user-images.githubusercontent.com/72415333/137005952-61444721-5528-4903-b55c-00af7726a5ee.png)
 
 En este diagrama podemos ver como se hizo el diseño de nuestra pagina web en modo MOVIL.
