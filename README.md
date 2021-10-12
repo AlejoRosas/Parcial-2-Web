@@ -91,9 +91,21 @@ Una vez visto PinCard, podremos pasar a observar Footer y su composicion:
 
 ![image](https://user-images.githubusercontent.com/72415333/137017408-81b6e8a0-28da-4859-9b52-c0e0d73ef23c.png)
 
-adicionalmente, tenes un wrapper, que es lo que contiene nustros iconos del footer:
+adicionalmente, tenemos un wrapper, que es lo que contiene nustros iconos del footer:
 
 ![image](https://user-images.githubusercontent.com/72415333/137017506-49e51b56-17b3-407b-81e4-08b84ba380b4.png)
+
+Ahora pasamos al Header(es el header de nuestra version o forma ordenador), el cual tambien cuenta con un wrapper que contiene todos sos elementos como iconos, barra de busqueda y logo:
+
+![image](https://user-images.githubusercontent.com/72415333/137017748-0ad46eec-b1ee-4e0b-93b1-ff5318f2e2bb.png)
+
+![image](https://user-images.githubusercontent.com/72415333/137017781-513aea71-d1e6-4297-bc1e-10fd0b91bdc2.png)
+
+Por ultimo tenemos el HeaderMobile, el cual es el que usamos en nuestra version para celular, que tiene la "misma" composicion del header de ordenador, pero distribuido de diferente forma y sin algunos elementos, como por ejemplo la barra de busqueda:
+
+![image](https://user-images.githubusercontent.com/72415333/137018012-582bf113-1d8a-42ff-91ba-1d2220c42156.png)
+
+
 
 
 
