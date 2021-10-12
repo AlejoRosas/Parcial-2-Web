@@ -62,7 +62,7 @@ En este diagrama podemos ver como se hizo el diseño de nuestra pagina web en mo
 
 En este diagrama podemos ver como se penso la forma de la pagina web en ordenador.
 
-Diseño:
+### Diseño:
 Sabiendo que debiamos usar react para la creacion de un "clon" de pinterest, decidimos realizar un diseño que correspondiera a esta directiva.
 Por lo tanto decidimos usar 5 componentes:
 * Header
