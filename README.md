@@ -75,6 +75,19 @@ Al tener todos estos componentes, podemos armar nuestra pagina web, ejemplo, pod
 
 Viendo la logica del responsive, estamos mostrando como se hace para el paso a responsive de nuestra pagina web.
 
+A su vez, aconitunuacion, podemos ver como esta compuesto el componente PinterestLayout, que es el que contiene los PinCards, que a su vez contiene las imagene que mostramos en la pagina web:
+
+![image](https://user-images.githubusercontent.com/72415333/137013308-5459ba6b-b2dc-4bbb-aa18-105c9f5c7012.png)
+
+A continuacio, podemos ver los estilos de PinCard, para ver sus styles y los tres tamaños que manejamos para introducir imagenes en la pagina:
+![image](https://user-images.githubusercontent.com/72415333/137013664-e8a350e4-918a-4dec-8d63-344fdeb53103.png)
+
+![image](https://user-images.githubusercontent.com/72415333/137013712-177e6014-1e95-442f-8006-47122b8c0c0d.png)
+
+
+
+
+
 
 
 
